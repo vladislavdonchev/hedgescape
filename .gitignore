@@ -1,0 +1,3 @@
+     * This also has the added benefit of making sure that the player piece is a solid
+     * shape - meaning that all cells that define it are connected directly, or by other
+     * adjacent cells.
